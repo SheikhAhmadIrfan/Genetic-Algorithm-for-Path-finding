@@ -42,7 +42,7 @@ Contributions to improve the algorithm, add features, or fix bugs are welcome. P
 
 ## License
 
-This project is licensed under the [License Name] License. See the LICENSE file for details.
+This project is licensed under the Ahmad License. See the LICENSE file for details.
 
 ## Acknowledgments
 
